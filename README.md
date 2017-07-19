@@ -1,2 +1,2 @@
 # PPRE
-A privacy policy refinement engine
+A privacy policy refinement engine for software defined networking
